@@ -16,7 +16,8 @@ uso e a aplicação da nova linguagem no desenvolvimento de um sistema
 de intranet para o Departamento de Informática da PUC-Rio, em 1994.  
 
 Lua passou a ser utilizada em outros projetos, como o desenvolvimento de
-jogos pela empresa **LucasArts**, destacando-se **Grim Fandango, Escape from Monkey Island, World of Warcraft, GTA IV, Crysis e Street Fighter 4**.  
+jogos pela empresa **LucasArts**, destacando-se:
+**Grim Fandango, Escape from Monkey Island, World of Warcraft, GTA IV, Crysis e Street Fighter 4**.  
 
 A LucasArts, do cineasta George Lucas, foi a primeira empresa a usar Lua
 para o desenvolvimento de jogos. Em seguida, vieram outras empresas,
