@@ -40,8 +40,9 @@ não necessitando declarar os tipos de dados a serem utilizados.
 Talvez os usuários avançados se interessem no estudo do código-fonte da
 linguagem, disponível para a versão 5.3.4 (lançado em janeiro de 2017) em:
 https://www.lua.org/ftp/lua-5.3.4.tar.gz.
+  
 ---
-##### extraido de :
-### Introdução à linguagem Lua  
+##### extraido de : #####
+### Introdução à linguagem Lua ### 
 _José Augusto N. G. Manzano_  
 Copyright © 2018 da Novatec Editora Ltda.
