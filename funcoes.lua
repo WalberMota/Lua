@@ -1,4 +1,4 @@
-function 
+function --função que pode ser usado por qualquer outro programa ou parte deste.
     celsius_fahrenheit(tc)
     local f
     f = 1.8 * tc + 32

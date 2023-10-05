@@ -7,6 +7,6 @@ local nome
 print("digite o seu nome\n")
 nome=io.read()
 
---clear()
+print("\x1b[2J\x1b[1;1H") --limpa a tela
 io.write("Olá ", nome, " seja bem vindo à Lua kkkk")
 
