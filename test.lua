@@ -3,4 +3,10 @@
 --[[
     Programa para testar a saida em tela de um texto qualquer.
 ]]
-print("Ola...testando")
+local nome
+print("digite o seu nome\n")
+nome=io.read()
+
+--clear()
+io.write("Olá ", nome, " seja bem vindo à Lua kkkk")
+
